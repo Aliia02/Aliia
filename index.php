@@ -2,12 +2,11 @@
 <html>
 <head>
     <title>Forms</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <div class="container">
         <div class="forms">
-            <form action="https://islamindex.herokuapp.com/">
+            <form action="main.php">
                 <div class="title">
                     <div class="sign_in_block">
                         <a href="#"><p class="sign_in">Sign in</p></a>
